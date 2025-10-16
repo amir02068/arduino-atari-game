@@ -1,4 +1,3 @@
-
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
@@ -123,3 +122,4 @@ void gameOver() {
   delay(3000);
   initSnake();
 }
+
